@@ -15,10 +15,7 @@ button {
     box-shadow: 0 0 10px#0ef;
     border-radius: 10px;
     transition: .3s ease;
-<<<<<<< HEAD
     cursor: pointer;
-=======
->>>>>>> 2b55a44a018f91f3746ef4014450d678c6803841
 }
 button:hover {
     box-shadow: 0 0 30px rgb(0,0,0,0.5);
